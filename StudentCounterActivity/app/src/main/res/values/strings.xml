@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentCounterActivity</string>
+    <string name="increment_button_text">Increment Count</string>
+    <string name="decrement_count_text">Decrement Count</string>
+</resources>
